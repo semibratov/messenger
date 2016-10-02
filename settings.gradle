@@ -1,0 +1,4 @@
+rootProject.name = 'messenger'
+include 'msg-console-ui'
+include 'msg-service'
+
